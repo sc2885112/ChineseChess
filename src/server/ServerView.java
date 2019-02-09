@@ -99,7 +99,6 @@ public class ServerView extends JFrame implements ActionListener{
 	
 	/**
 	 * 启动按钮的事件
-	 * @param args
 	 */
 	public void StartEvent(){
 		int port = 0;
@@ -156,7 +155,6 @@ public class ServerView extends JFrame implements ActionListener{
 	
 	/**
 	 * 更新用户在线列表
-	 * @param args
 	 */
 	public void reUsersList() {
 		textArea.setText(null);
