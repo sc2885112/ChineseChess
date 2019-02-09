@@ -1,0 +1,964 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7053042c-dc5e-4eb5-88f5-76a421a87074" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="775738408">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="gitignore" value="1" />
+          <entry key="gradle" value="2" />
+          <entry key="java" value="41" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Groovy" value="2" />
+          <entry key="JAVA" value="41" />
+          <entry key="PLAIN_TEXT" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="3378" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="3378" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="ChineseChess" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/server/ServerView.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2559">
+              <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#542#569#0" expanded="true" />
+                <element signature="e#1065#1086#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/client/ClientThread.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="21" column="35" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/client/ClientView.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-6034">
+              <caret line="206" column="32" selection-start-line="206" selection-start-column="32" selection-end-line="206" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#654#681#0" expanded="true" />
+                <element signature="e#8555#10490#0" expanded="true" />
+                <element signature="e#10489#10490#0" expanded="true" />
+                <element signature="e#10529#10841#0" expanded="true" />
+                <element signature="e#10840#10841#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/enu/ClientMenu.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="275">
+              <caret line="11" column="40" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Thread.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-449">
+              <caret line="882" column="36" selection-start-line="882" selection-start-column="29" selection-end-line="882" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>message</find>
+      <find>jtfNickName</find>
+      <find>extConnection</find>
+      <find>reUsersLiset</find>
+      <find>admitDefeat</find>
+      <find>jtfPort</find>
+      <find>channel</find>
+      <find>onlineList</find>
+      <find>System</find>
+      <find>发起</find>
+      <find>refuseChallenge</find>
+      <find>serverView</find>
+      <find>myName</find>
+      <find>System.out.println</find>
+      <find>Sys</find>
+      <find>bootstrap</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>msg</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="myGradleHomes">
+      <map>
+        <entry key="$PROJECT_DIR$" value="D:\gradle-5.1.1" />
+      </map>
+    </option>
+    <option name="myGradleVersions">
+      <map>
+        <entry key="$PROJECT_DIR$" value="5.1.1" />
+      </map>
+    </option>
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="ChineseChess" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="ChineseChess" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="availableTasks">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Initializes a new Gradle build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="init" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by root project 'ChineseChess'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of root project 'ChineseChess'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in root project 'ChineseChess'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in root project 'ChineseChess'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in root project 'ChineseChess'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Gradle wrapper files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="wrapper" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in root project 'ChineseChess'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of root project 'ChineseChess'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of root project 'ChineseChess'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from root project 'ChineseChess'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="1549609490546" />
+        <entry key="$PROJECT_DIR$/.gradle" value="0" />
+        <entry key="$PROJECT_DIR$/build.gradle" value="3266120159" />
+        <entry key="$PROJECT_DIR$/settings.gradle" value="17202022" />
+      </map>
+    </option>
+    <option name="projectBuildClasspath">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <ExternalProjectBuildClasspathPojo>
+              <option name="modulesBuildClasspath">
+                <map>
+                  <entry key="$PROJECT_DIR$">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="name" value="ChineseChess" />
+              <option name="projectBuildClasspath">
+                <list>
+                  <option value="D:/gradle-5.1.1/src/announce" />
+                  <option value="D:/gradle-5.1.1/src/antlr" />
+                  <option value="D:/gradle-5.1.1/src/base-services" />
+                  <option value="D:/gradle-5.1.1/src/base-services-groovy" />
+                  <option value="D:/gradle-5.1.1/src/build-cache" />
+                  <option value="D:/gradle-5.1.1/src/build-cache-http" />
+                  <option value="D:/gradle-5.1.1/src/build-cache-packaging" />
+                  <option value="D:/gradle-5.1.1/src/build-comparison" />
+                  <option value="D:/gradle-5.1.1/src/build-init" />
+                  <option value="D:/gradle-5.1.1/src/build-option" />
+                  <option value="D:/gradle-5.1.1/src/build-profile" />
+                  <option value="D:/gradle-5.1.1/src/cli" />
+                  <option value="D:/gradle-5.1.1/src/code-quality" />
+                  <option value="D:/gradle-5.1.1/src/composite-builds" />
+                  <option value="D:/gradle-5.1.1/src/core" />
+                  <option value="D:/gradle-5.1.1/src/core-api" />
+                  <option value="D:/gradle-5.1.1/src/dependency-management" />
+                  <option value="D:/gradle-5.1.1/src/diagnostics" />
+                  <option value="D:/gradle-5.1.1/src/docs" />
+                  <option value="D:/gradle-5.1.1/src/ear" />
+                  <option value="D:/gradle-5.1.1/src/execution" />
+                  <option value="D:/gradle-5.1.1/src/files" />
+                  <option value="D:/gradle-5.1.1/src/ide" />
+                  <option value="D:/gradle-5.1.1/src/ide-native" />
+                  <option value="D:/gradle-5.1.1/src/ide-play" />
+                  <option value="D:/gradle-5.1.1/src/installation-beacon" />
+                  <option value="D:/gradle-5.1.1/src/internal-android-performance-testing" />
+                  <option value="D:/gradle-5.1.1/src/internal-integ-testing" />
+                  <option value="D:/gradle-5.1.1/src/internal-performance-testing" />
+                  <option value="D:/gradle-5.1.1/src/internal-testing" />
+                  <option value="D:/gradle-5.1.1/src/ivy" />
+                  <option value="D:/gradle-5.1.1/src/jacoco" />
+                  <option value="D:/gradle-5.1.1/src/javascript" />
+                  <option value="D:/gradle-5.1.1/src/jvm-services" />
+                  <option value="D:/gradle-5.1.1/src/language-groovy" />
+                  <option value="D:/gradle-5.1.1/src/language-java" />
+                  <option value="D:/gradle-5.1.1/src/language-jvm" />
+                  <option value="D:/gradle-5.1.1/src/language-native" />
+                  <option value="D:/gradle-5.1.1/src/language-scala" />
+                  <option value="D:/gradle-5.1.1/src/launcher" />
+                  <option value="D:/gradle-5.1.1/src/logging" />
+                  <option value="D:/gradle-5.1.1/src/maven" />
+                  <option value="D:/gradle-5.1.1/src/messaging" />
+                  <option value="D:/gradle-5.1.1/src/model-core" />
+                  <option value="D:/gradle-5.1.1/src/model-groovy" />
+                  <option value="D:/gradle-5.1.1/src/native" />
+                  <option value="D:/gradle-5.1.1/src/osgi" />
+                  <option value="D:/gradle-5.1.1/src/persistent-cache" />
+                  <option value="D:/gradle-5.1.1/src/platform-base" />
+                  <option value="D:/gradle-5.1.1/src/platform-jvm" />
+                  <option value="D:/gradle-5.1.1/src/platform-native" />
+                  <option value="D:/gradle-5.1.1/src/platform-play" />
+                  <option value="D:/gradle-5.1.1/src/plugin-development" />
+                  <option value="D:/gradle-5.1.1/src/plugin-use" />
+                  <option value="D:/gradle-5.1.1/src/plugins" />
+                  <option value="D:/gradle-5.1.1/src/process-services" />
+                  <option value="D:/gradle-5.1.1/src/publish" />
+                  <option value="D:/gradle-5.1.1/src/reporting" />
+                  <option value="D:/gradle-5.1.1/src/resources" />
+                  <option value="D:/gradle-5.1.1/src/resources-gcs" />
+                  <option value="D:/gradle-5.1.1/src/resources-http" />
+                  <option value="D:/gradle-5.1.1/src/resources-s3" />
+                  <option value="D:/gradle-5.1.1/src/resources-sftp" />
+                  <option value="D:/gradle-5.1.1/src/scala" />
+                  <option value="D:/gradle-5.1.1/src/signing" />
+                  <option value="D:/gradle-5.1.1/src/snapshots" />
+                  <option value="D:/gradle-5.1.1/src/test-kit" />
+                  <option value="D:/gradle-5.1.1/src/testing-base" />
+                  <option value="D:/gradle-5.1.1/src/testing-junit-platform" />
+                  <option value="D:/gradle-5.1.1/src/testing-jvm" />
+                  <option value="D:/gradle-5.1.1/src/testing-native" />
+                  <option value="D:/gradle-5.1.1/src/tooling-api" />
+                  <option value="D:/gradle-5.1.1/src/tooling-api-builders" />
+                  <option value="D:/gradle-5.1.1/src/tooling-native" />
+                  <option value="D:/gradle-5.1.1/src/version-control" />
+                  <option value="D:/gradle-5.1.1/src/workers" />
+                  <option value="D:/gradle-5.1.1/src/wrapper" />
+                  <option value="D:/gradle-5.1.1/lib/ant-1.9.13.jar" />
+                  <option value="D:/gradle-5.1.1/lib/ant-launcher-1.9.13.jar" />
+                  <option value="D:/gradle-5.1.1/lib/gradle-api-metadata-5.1.1.jar" />
+                  <option value="D:/gradle-5.1.1/lib/gradle-base-services-5.1.1.jar" />
+                  <option value="D:/gradle-5.1.1/lib/gradle-base-services-groovy-5.1.1.jar" />
+                  <option value="D:/gradle-5.1.1/lib/gradle-build-cache-5.1.1.jar" />
+                  <option value="D:/gradle-5.1.1/lib/gradle-build-cache-packaging-5.1.1.jar" />
+                  <option value="D:/gradle-5.1.1/lib/gradle-build-option-5.1.1.jar" />
+                  <option value="D:/gradle-5.1.1/lib/gradle-cli-5.1.1.jar" />
+                  <option value="D:/gradle-5.1.1/lib/gradle-core-5.1.1.jar" />
+                  <option value="D:/gradle-5.1.1/lib/gradle-core-api-5.1.1.jar" />
+                  <option value="D:/gradle-5.1.1/lib/gradle-docs-5.1.1.jar" />
+                  <option value="D:/gradle-5.1.1/lib/gradle-execution-5.1.1.jar" />
+                  <option value="D:/gradle-5.1.1/lib/gradle-files-5.1.1.jar" />
+                  <option value="D:/gradle-5.1.1/lib/gradle-installation-beacon-5.1.1.jar" />
+                  <option value="D:/gradle-5.1.1/lib/gradle-jvm-services-5.1.1.jar" />
+                  <option value="D:/gradle-5.1.1/lib/gradle-kotlin-dsl-1.1.1.jar" />
+                  <option value="D:/gradle-5.1.1/lib/gradle-kotlin-dsl-provider-plugins-1.1.1.jar" />
+                  <option value="D:/gradle-5.1.1/lib/gradle-kotlin-dsl-tooling-builders-1.1.1.jar" />
+                  <option value="D:/gradle-5.1.1/lib/gradle-kotlin-dsl-tooling-models-1.1.1.jar" />
+                  <option value="D:/gradle-5.1.1/lib/gradle-launcher-5.1.1.jar" />
+                  <option value="D:/gradle-5.1.1/lib/gradle-logging-5.1.1.jar" />
+                  <option value="D:/gradle-5.1.1/lib/gradle-messaging-5.1.1.jar" />
+                  <option value="D:/gradle-5.1.1/lib/gradle-model-core-5.1.1.jar" />
+                  <option value="D:/gradle-5.1.1/lib/gradle-model-groovy-5.1.1.jar" />
+                  <option value="D:/gradle-5.1.1/lib/gradle-native-5.1.1.jar" />
+                  <option value="D:/gradle-5.1.1/lib/gradle-persistent-cache-5.1.1.jar" />
+                  <option value="D:/gradle-5.1.1/lib/gradle-process-services-5.1.1.jar" />
+                  <option value="D:/gradle-5.1.1/lib/gradle-resources-5.1.1.jar" />
+                  <option value="D:/gradle-5.1.1/lib/gradle-runtime-api-info-5.1.1.jar" />
+                  <option value="D:/gradle-5.1.1/lib/gradle-snapshots-5.1.1.jar" />
+                  <option value="D:/gradle-5.1.1/lib/gradle-tooling-api-5.1.1.jar" />
+                  <option value="D:/gradle-5.1.1/lib/gradle-wrapper-5.1.1.jar" />
+                  <option value="D:/gradle-5.1.1/lib/plugins/gradle-announce-5.1.1.jar" />
+                  <option value="D:/gradle-5.1.1/lib/plugins/gradle-antlr-5.1.1.jar" />
+                  <option value="D:/gradle-5.1.1/lib/plugins/gradle-build-cache-http-5.1.1.jar" />
+                  <option value="D:/gradle-5.1.1/lib/plugins/gradle-build-comparison-5.1.1.jar" />
+                  <option value="D:/gradle-5.1.1/lib/plugins/gradle-build-init-5.1.1.jar" />
+                  <option value="D:/gradle-5.1.1/lib/plugins/gradle-build-profile-5.1.1.jar" />
+                  <option value="D:/gradle-5.1.1/lib/plugins/gradle-code-quality-5.1.1.jar" />
+                  <option value="D:/gradle-5.1.1/lib/plugins/gradle-composite-builds-5.1.1.jar" />
+                  <option value="D:/gradle-5.1.1/lib/plugins/gradle-dependency-management-5.1.1.jar" />
+                  <option value="D:/gradle-5.1.1/lib/plugins/gradle-diagnostics-5.1.1.jar" />
+                  <option value="D:/gradle-5.1.1/lib/plugins/gradle-ear-5.1.1.jar" />
+                  <option value="D:/gradle-5.1.1/lib/plugins/gradle-ide-5.1.1.jar" />
+                  <option value="D:/gradle-5.1.1/lib/plugins/gradle-ide-native-5.1.1.jar" />
+                  <option value="D:/gradle-5.1.1/lib/plugins/gradle-ide-play-5.1.1.jar" />
+                  <option value="D:/gradle-5.1.1/lib/plugins/gradle-ivy-5.1.1.jar" />
+                  <option value="D:/gradle-5.1.1/lib/plugins/gradle-jacoco-5.1.1.jar" />
+                  <option value="D:/gradle-5.1.1/lib/plugins/gradle-javascript-5.1.1.jar" />
+                  <option value="D:/gradle-5.1.1/lib/plugins/gradle-language-groovy-5.1.1.jar" />
+                  <option value="D:/gradle-5.1.1/lib/plugins/gradle-language-java-5.1.1.jar" />
+                  <option value="D:/gradle-5.1.1/lib/plugins/gradle-language-jvm-5.1.1.jar" />
+                  <option value="D:/gradle-5.1.1/lib/plugins/gradle-language-native-5.1.1.jar" />
+                  <option value="D:/gradle-5.1.1/lib/plugins/gradle-language-scala-5.1.1.jar" />
+                  <option value="D:/gradle-5.1.1/lib/plugins/gradle-maven-5.1.1.jar" />
+                  <option value="D:/gradle-5.1.1/lib/plugins/gradle-osgi-5.1.1.jar" />
+                  <option value="D:/gradle-5.1.1/lib/plugins/gradle-platform-base-5.1.1.jar" />
+                  <option value="D:/gradle-5.1.1/lib/plugins/gradle-platform-jvm-5.1.1.jar" />
+                  <option value="D:/gradle-5.1.1/lib/plugins/gradle-platform-native-5.1.1.jar" />
+                  <option value="D:/gradle-5.1.1/lib/plugins/gradle-platform-play-5.1.1.jar" />
+                  <option value="D:/gradle-5.1.1/lib/plugins/gradle-plugin-development-5.1.1.jar" />
+                  <option value="D:/gradle-5.1.1/lib/plugins/gradle-plugin-use-5.1.1.jar" />
+                  <option value="D:/gradle-5.1.1/lib/plugins/gradle-plugins-5.1.1.jar" />
+                  <option value="D:/gradle-5.1.1/lib/plugins/gradle-publish-5.1.1.jar" />
+                  <option value="D:/gradle-5.1.1/lib/plugins/gradle-reporting-5.1.1.jar" />
+                  <option value="D:/gradle-5.1.1/lib/plugins/gradle-resources-gcs-5.1.1.jar" />
+                  <option value="D:/gradle-5.1.1/lib/plugins/gradle-resources-http-5.1.1.jar" />
+                  <option value="D:/gradle-5.1.1/lib/plugins/gradle-resources-s3-5.1.1.jar" />
+                  <option value="D:/gradle-5.1.1/lib/plugins/gradle-resources-sftp-5.1.1.jar" />
+                  <option value="D:/gradle-5.1.1/lib/plugins/gradle-scala-5.1.1.jar" />
+                  <option value="D:/gradle-5.1.1/lib/plugins/gradle-signing-5.1.1.jar" />
+                  <option value="D:/gradle-5.1.1/lib/plugins/gradle-test-kit-5.1.1.jar" />
+                  <option value="D:/gradle-5.1.1/lib/plugins/gradle-testing-base-5.1.1.jar" />
+                  <option value="D:/gradle-5.1.1/lib/plugins/gradle-testing-junit-platform-5.1.1.jar" />
+                  <option value="D:/gradle-5.1.1/lib/plugins/gradle-testing-jvm-5.1.1.jar" />
+                  <option value="D:/gradle-5.1.1/lib/plugins/gradle-testing-native-5.1.1.jar" />
+                  <option value="D:/gradle-5.1.1/lib/plugins/gradle-tooling-api-builders-5.1.1.jar" />
+                  <option value="D:/gradle-5.1.1/lib/plugins/gradle-tooling-native-5.1.1.jar" />
+                  <option value="D:/gradle-5.1.1/lib/plugins/gradle-version-control-5.1.1.jar" />
+                  <option value="D:/gradle-5.1.1/lib/plugins/gradle-workers-5.1.1.jar" />
+                  <option value="D:/gradle-5.1.1/lib/plugins/ivy-2.3.0.jar" />
+                </list>
+              </option>
+            </ExternalProjectBuildClasspathPojo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+        <entry key="$PROJECT_DIR$/src" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../first_netty" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/server/ServerThread.java" />
+        <option value="$PROJECT_DIR$/src/server/ServerInitializer.java" />
+        <option value="$PROJECT_DIR$/src/server/InteractiveUitl.java" />
+        <option value="$PROJECT_DIR$/src/client/ClientInteractiveUitl.java" />
+        <option value="$PROJECT_DIR$/src/client/ClientView.java" />
+        <option value="$PROJECT_DIR$/src/client/ClientHandler.java" />
+        <option value="$PROJECT_DIR$/src/server/ServerHandler.java" />
+        <option value="$PROJECT_DIR$/src/server/ServerInteractiveUitl.java" />
+        <option value="$PROJECT_DIR$/src/server/ServerView.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="825" />
+    <option name="y" value="55" />
+    <option name="width" value="1360" />
+    <option name="height" value="975" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ChineseChess" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ChineseChess" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="ChineseChess" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ChineseChess" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ChineseChess" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ChineseChess" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ChineseChess" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ChineseChess" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="enu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ChineseChess" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ChineseChess" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549695124883" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="copyright" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ClientView">
+    <configuration name="ClientView" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="client.ClientView" />
+      <module name="ChineseChess" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServerView" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="server.ServerView" />
+      <module name="ChineseChess" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ClientView" />
+      <item itemvalue="Application.ServerView" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ClientView" />
+        <item itemvalue="Application.ServerView" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7053042c-dc5e-4eb5-88f5-76a421a87074" name="Default Changelist" comment="" />
+      <created>1549609954686</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549609954686</updated>
+      <workItem from="1549609956032" duration="16527000" />
+      <workItem from="1549676803965" duration="17246000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="33773000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49789914" visible="true" weight="0.21983914" />
+      <window_info id="Structure" order="1" sideWeight="0.5021008" side_tool="true" weight="0.21983914" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" sideWeight="0.5010571" side_tool="true" weight="0.21715818" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.29787233" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.31914893" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.32907802" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32907802" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" visible="true" weight="0.32907802" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.3297587" />
+      <window_info anchor="right" id="Gradle" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/client/Rule.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2800">
+          <caret line="31" column="37" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.1.33.Final/3738efeb2d3419de3b171108bc3929311f504cd3/netty-all-4.1.33.Final-sources.jar!/io/netty/channel/ChannelHandlerContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="129" column="11" selection-start-line="129" selection-start-column="4" selection-end-line="129" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/server/ServerThread.java" />
+    <entry file="file://$PROJECT_DIR$/src/server/ServerInitializer.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/javax/swing/JComboBox.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="764" column="16" selection-start-line="764" selection-start-column="16" selection-end-line="764" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.1.33.Final/3738efeb2d3419de3b171108bc3929311f504cd3/netty-all-4.1.33.Final-sources.jar!/io/netty/channel/nio/NioEventLoopGroup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+          <folding>
+            <element signature="e#1713#1714#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/AbstractSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="57" column="22" selection-start-line="57" selection-start-column="22" selection-end-line="57" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.1.33.Final/3738efeb2d3419de3b171108bc3929311f504cd3/netty-all-4.1.33.Final-sources.jar!/io/netty/channel/Channel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="81" column="14" selection-start-line="81" selection-start-column="14" selection-end-line="81" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.1.33.Final/3738efeb2d3419de3b171108bc3929311f504cd3/netty-all-4.1.33.Final-sources.jar!/io/netty/channel/group/ChannelGroup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1675">
+          <caret line="94" column="17" selection-start-line="94" selection-start-column="17" selection-end-line="94" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.1.33.Final/3738efeb2d3419de3b171108bc3929311f504cd3/netty-all-4.1.33.Final-sources.jar!/io/netty/channel/group/DefaultChannelGroup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="62" column="11" selection-start-line="62" selection-start-column="11" selection-end-line="62" selection-end-column="11" />
+          <folding>
+            <element signature="e#2494#2495#0" expanded="true" />
+            <element signature="e#2531#2532#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="2075" column="22" selection-start-line="2075" selection-start-column="11" selection-end-line="2075" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/javax/swing/JOptionPane.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="633" column="23" selection-start-line="633" selection-start-column="23" selection-end-line="633" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.1.33.Final/3738efeb2d3419de3b171108bc3929311f504cd3/netty-all-4.1.33.Final-sources.jar!/io/netty/bootstrap/Bootstrap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3073">
+          <caret line="124" column="25" selection-start-line="124" selection-start-column="25" selection-end-line="124" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/client/Checkerboard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-524">
+          <caret line="131" column="47" lean-forward="true" selection-start-line="131" selection-start-column="47" selection-end-line="131" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/javax/swing/DefaultComboBoxModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1175">
+          <caret line="74" column="11" selection-start-line="74" selection-start-column="11" selection-end-line="74" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.1.33.Final/3738efeb2d3419de3b171108bc3929311f504cd3/netty-all-4.1.33.Final-sources.jar!/io/netty/channel/SimpleChannelInboundHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="110" selection-start-line="110" selection-end-line="110" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/client/ClientInteractiveUitl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="28" column="5" lean-forward="true" selection-start-line="16" selection-start-column="3" selection-end-line="28" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#263#264#0" expanded="true" />
+            <element signature="e#324#325#0" expanded="true" />
+            <element signature="e#268#276#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-449">
+          <caret line="882" column="36" selection-start-line="882" selection-start-column="29" selection-end-line="882" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/server/ServerHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/client/ClientHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1219">
+          <caret line="62" column="63" selection-start-line="62" selection-start-column="56" selection-end-line="62" selection-end-column="63" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#345#346#0" expanded="true" />
+            <element signature="e#398#399#0" expanded="true" />
+            <element signature="e#1414#1415#0" expanded="true" />
+            <element signature="e#1451#1452#0" expanded="true" />
+            <element signature="e#1654#1662#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/server/ServerInteractiveUitl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2475">
+          <caret line="99" selection-start-line="99" selection-end-line="99" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#466#467#0" expanded="true" />
+            <element signature="e#527#528#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/enu/ClientMenu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="40" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/server/ServerView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2559">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#542#569#0" expanded="true" />
+            <element signature="e#1065#1086#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/client/ClientThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="21" column="35" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/client/ClientView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6034">
+          <caret line="206" column="32" selection-start-line="206" selection-start-column="32" selection-end-line="206" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#654#681#0" expanded="true" />
+            <element signature="e#8555#10490#0" expanded="true" />
+            <element signature="e#10489#10490#0" expanded="true" />
+            <element signature="e#10529#10841#0" expanded="true" />
+            <element signature="e#10840#10841#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>ChineseChess</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Gradle: io.netty:netty-all:4.1.33.Final</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
